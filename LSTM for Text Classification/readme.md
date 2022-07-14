@@ -8,7 +8,6 @@ RNN works by having a single hidden layer and providing the same weights and bia
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/94e079a3-0327-48c2-a38e-b5de46c9b941/Untitled.png)
 
-[https://www.notion.so/Mini-Task-1-Part-2-d325c119a6be432abe63faf74b71fdc8#d94b2de159e5499ea39a7ae19edd752b](https://www.notion.so/Mini-Task-1-Part-2-d325c119a6be432abe63faf74b71fdc8)
 
 The diagram on the left shows the RNN in a compressed format and on the right it shows the expanded format.
 
